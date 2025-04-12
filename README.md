@@ -1,4 +1,4 @@
-I'll start learning very basics NextJS concepts, and then I'll dive into all the core features that make up NextJS. Both in theory as well as with multiple real projects where all concepts will be applied step-by-step.
+In this course I'll start learning very basics NextJS concepts, and then I'll dive into all the core features that make up NextJS. Both in theory as well as with multiple real projects where all concepts will be applied step-by-step.
 
 In detail, this course will cover:
 - What is NextJS? And why would you I it?
